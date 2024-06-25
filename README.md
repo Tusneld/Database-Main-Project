@@ -1,6 +1,8 @@
 # Database-Main-Project
 
 https://docs.google.com/document/d/1pVwyGORCdfTGuB3ClrS_UdhIV7efQkwhbwwZA8I2rKU/edit?usp=sharing
+https://www.canva.com/design/DAGIyyCybR8/SFN6i-sBQD-qRBuJQFQJrg/edit?utm_content=DAGIyyCybR8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 # Social Media Usage Analysis Database Project
 # Dataset Overview
