@@ -23,8 +23,6 @@ Observed that younger users tend to spend more time on social media compared to 
 
 # Cool Fact 1 - Average Time Spent on Social Media by Age Groups
 
-
-
 SELECT 
     CASE
         WHEN age BETWEEN 13 AND 18 THEN '13-18'
@@ -109,7 +107,6 @@ LIMIT 3;
 The bar chart illustrates that users aged 19-24 spend the most time on social media, while users aged 65+ spend the least time.
 
 # Distribution of Interests Among Users
-Chart:
 
 ![image](https://github.com/Tusneld/Database-Main-Project/assets/109280117/f356bbf5-b5ce-443a-89bd-76039ecc236b)
 
@@ -119,7 +116,7 @@ Chart:
 The pie chart shows that Lifestyle, Sports, and Travel are the top three interests among users.
 
 # Top Social Media Platforms by Profession
-Chart:
+
 ![image](https://github.com/Tusneld/Database-Main-Project/assets/109280117/afaab82b-ecd2-4bde-8ab9-e82e94cc7e0c)
 
 #Explanation:
